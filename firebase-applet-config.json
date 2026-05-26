@@ -1,10 +1,10 @@
 {
-  "projectId": "sacred-record-mcf5x",
-  "appId": "1:394794925490:web:90161737736423799bb8ab",
-  "apiKey": "AIzaSyD6O_TN_viRMB2SGt2a2fCd6ukZR5AG6dM",
-  "authDomain": "sacred-record-mcf5x.firebaseapp.com",
-  "firestoreDatabaseId": "ai-studio-69d6cc76-9f7d-46df-9fd6-c1c856e27155",
-  "storageBucket": "sacred-record-mcf5x.firebasestorage.app",
-  "messagingSenderId": "394794925490",
-  "measurementId": ""
+  "projectId": "remixed-project-id",
+  "appId": "remixed-app-id",
+  "apiKey": "remixed-api-key",
+  "authDomain": "remixed-auth-domain",
+  "firestoreDatabaseId": "remixed-firestore-database-id",
+  "storageBucket": "remixed-storage-bucket",
+  "messagingSenderId": "remixed-messaging-sender-id",
+  "measurementId": "remixed-measurement-id"
 }
