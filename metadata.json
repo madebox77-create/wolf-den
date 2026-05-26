@@ -1,0 +1,8 @@
+{
+  "name": "Wolf den",
+  "description": "A premium digital marketplace with automated instant delivery and secure routing workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
